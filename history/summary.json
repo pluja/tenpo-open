@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcap.kycnot.me.ico",
     "slug": "kycnot-me-captcha",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.46%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 672,
     "timeDay": 763,
     "timeWeek": 672,
     "timeMonth": 672,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2023-08-23": 1
+      "2023-08-23": 37
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://blogo.site",
     "icon": "https://icons.duckduckgo.com/ip3/blogo.site.ico",
     "slug": "blogo-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 550,
-    "timeDay": 472,
-    "timeWeek": 550,
-    "timeMonth": 550,
-    "timeYear": 550,
+    "status": "up",
+    "uptime": "99.47%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
+    "time": 562,
+    "timeDay": 555,
+    "timeWeek": 562,
+    "timeMonth": 562,
+    "timeYear": 562,
     "dailyMinutesDown": {
-      "2023-08-23": 0
+      "2023-08-23": 37
     }
   },
   {
