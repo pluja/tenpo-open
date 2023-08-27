@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcap.kycnot.me.ico",
     "slug": "kycnot-me-captcha",
     "status": "up",
-    "uptime": "91.53%",
+    "uptime": "92.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.96%",
-    "uptimeMonth": "91.53%",
-    "uptimeYear": "91.53%",
+    "uptimeMonth": "92.07%",
+    "uptimeYear": "92.07%",
     "time": 674,
     "timeDay": 597,
     "timeWeek": 673,
@@ -62,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blogo.site.ico",
     "slug": "blogo-site",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.49%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
     "time": 552,
     "timeDay": 408,
     "timeWeek": 553,
@@ -82,9 +82,9 @@
     "url": "https://usenostr.org",
     "icon": "https://icons.duckduckgo.com/ip3/usenostr.org.ico",
     "slug": "usenostr-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,14 +93,16 @@
     "timeWeek": 618,
     "timeMonth": 610,
     "timeYear": 610,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-27": 0
+    }
   },
   {
     "name": "nerostr relay",
     "url": "https://xmr.usenostr.org",
     "icon": "https://icons.duckduckgo.com/ip3/xmr.usenostr.org.ico",
     "slug": "nerostr-relay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -111,6 +113,8 @@
     "timeWeek": 616,
     "timeMonth": 617,
     "timeYear": 617,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-27": 0
+    }
   }
 ]
