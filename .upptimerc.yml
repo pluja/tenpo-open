@@ -7,8 +7,6 @@ sites:
     url: https://kycnot.me
   - name: kycnot.me blog
     url: https://blog.kycnot.me
-  - name: kycnot.me captcha
-    url: https://mcap.kycnot.me
   - name: blogo.site
     url: https://blogo.site
   - name: usenostr.org
