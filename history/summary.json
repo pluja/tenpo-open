@@ -4,10 +4,10 @@
     "url": "https://kycnot.me",
     "icon": "https://icons.duckduckgo.com/ip3/kycnot.me.ico",
     "slug": "kycnot-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 613,
@@ -16,6 +16,7 @@
     "timeMonth": 617,
     "timeYear": 613,
     "dailyMinutesDown": {
+      "2024-04-05": 1,
       "2024-02-25": 437,
       "2023-10-16": 23,
       "2023-09-27": 17
