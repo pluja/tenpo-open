@@ -8,12 +8,12 @@
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.17%",
+    "uptimeMonth": "99.19%",
     "uptimeYear": "99.68%",
     "time": 627,
-    "timeDay": 699,
-    "timeWeek": 688,
-    "timeMonth": 651,
+    "timeDay": 648,
+    "timeWeek": 650,
+    "timeMonth": 663,
     "timeYear": 631,
     "dailyMinutesDown": {
       "2024-08-25": 24,
@@ -40,9 +40,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 587,
-    "timeDay": 715,
-    "timeWeek": 665,
-    "timeMonth": 628,
+    "timeDay": 507,
+    "timeWeek": 631,
+    "timeMonth": 627,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2023-09-28": 33
@@ -54,15 +54,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blogo.site.ico",
     "slug": "blogo-site",
     "status": "up",
-    "uptime": "98.06%",
+    "uptime": "98.07%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "96.04%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.48%",
     "uptimeYear": "97.97%",
     "time": 881,
-    "timeDay": 620,
-    "timeWeek": 941,
-    "timeMonth": 624,
+    "timeDay": 610,
+    "timeWeek": 670,
+    "timeMonth": 623,
     "timeYear": 896,
     "dailyMinutesDown": {
       "2024-09-05": 25,
@@ -109,8 +109,7 @@
       "2023-12-22": 20,
       "2023-12-19": 23,
       "2023-12-17": 21,
-      "2023-11-11": 409,
-      "2023-09-14": 24
+      "2023-11-11": 409
     }
   },
   {
@@ -125,8 +124,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 249,
-    "timeDay": 283,
-    "timeWeek": 283,
+    "timeDay": 269,
+    "timeWeek": 273,
     "timeMonth": 263,
     "timeYear": 239,
     "dailyMinutesDown": {
@@ -139,16 +138,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/xmr.usenostr.org.ico",
     "slug": "nerostr-relay",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 489,
-    "timeDay": 380,
-    "timeWeek": 549,
+    "timeDay": 525,
+    "timeWeek": 532,
     "timeMonth": 508,
-    "timeYear": 485,
+    "timeYear": 486,
     "dailyMinutesDown": {
       "2024-02-14": 34
     }
