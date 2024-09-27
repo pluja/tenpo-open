@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 628,
-    "timeDay": 825,
-    "timeWeek": 709,
-    "timeMonth": 685,
+    "timeDay": 501,
+    "timeWeek": 665,
+    "timeMonth": 679,
     "timeYear": 633,
     "dailyMinutesDown": {
       "2024-08-25": 24,
@@ -39,13 +39,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 590,
-    "timeDay": 536,
-    "timeWeek": 595,
-    "timeMonth": 653,
+    "timeDay": 608,
+    "timeWeek": 584,
+    "timeMonth": 652,
     "timeYear": 598,
-    "dailyMinutesDown": {
-      "2023-09-28": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "blogo.site",
@@ -53,15 +51,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blogo.site.ico",
     "slug": "blogo-site",
     "status": "up",
-    "uptime": "97.82%",
-    "uptimeDay": "94.10%",
+    "uptime": "97.83%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "82.46%",
-    "uptimeMonth": "94.68%",
+    "uptimeMonth": "95.22%",
     "uptimeYear": "97.64%",
-    "time": 876,
-    "timeDay": 651,
-    "timeWeek": 663,
-    "timeMonth": 632,
+    "time": 875,
+    "timeDay": 568,
+    "timeWeek": 631,
+    "timeMonth": 602,
     "timeYear": 862,
     "dailyMinutesDown": {
       "2024-09-25": 180,
@@ -126,9 +124,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 248,
-    "timeDay": 143,
+    "timeDay": 222,
     "timeWeek": 197,
-    "timeMonth": 247,
+    "timeMonth": 245,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2023-10-30": 35
@@ -145,10 +143,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 490,
-    "timeDay": 528,
-    "timeWeek": 482,
-    "timeMonth": 510,
+    "time": 489,
+    "timeDay": 347,
+    "timeWeek": 458,
+    "timeMonth": 507,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2024-02-14": 34
