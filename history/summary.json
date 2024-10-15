@@ -31,19 +31,19 @@
     "url": "https://blog.kycnot.me",
     "icon": "https://icons.duckduckgo.com/ip3/blog.kycnot.me.ico",
     "slug": "kycnot-me-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 476,
-    "timeWeek": 589,
-    "timeMonth": 634,
+    "time": 590,
+    "timeDay": 441,
+    "timeWeek": 565,
+    "timeMonth": 626,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2024-10-15": 0
+      "2024-10-15": 17
     }
   },
   {
@@ -55,7 +55,7 @@
     "uptime": "94.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.77%",
+    "uptimeMonth": "48.73%",
     "uptimeYear": "93.70%",
     "time": 869,
     "timeDay": 356,
@@ -63,7 +63,7 @@
     "timeMonth": 672,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2024-10-15": 391,
+      "2024-10-15": 409,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
